@@ -9,7 +9,8 @@
   },
   "author": "me",
   "license": "ISC",
-  "dependencies": {
-    "nodemon": "^3.0.3"
+  "devDependencies": {
+    "nodemon": "^3.0.3",
+    "prettier": "^3.2.4"
   }
 }
